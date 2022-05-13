@@ -1,0 +1,22 @@
+{
+  "name": "bcv-taza-dolar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "Taza",
+    "Dolar",
+    "BCV",
+    "Venezuela"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
